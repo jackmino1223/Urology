@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>943669560268-r6cn5icfko9gr45i34v3u096mr49tpom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.943669560268-r6cn5icfko9gr45i34v3u096mr49tpom</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOyPPtFaOjBPNzOCug7yWI4QFCP-KgN0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>943669560268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.urology.boot</string>
+	<key>PROJECT_ID</key>
+	<string>urology-boot-camp-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urology-boot-camp-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:943669560268:ios:7f0b87a12dbdd2da</string>
+	<key>DATABASE_URL</key>
+	<string>https://urology-boot-camp-app.firebaseio.com</string>
+</dict>
+</plist>
